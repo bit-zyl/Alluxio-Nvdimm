@@ -1,0 +1,32 @@
+2016-10-22 15:09:29,794 INFO  logger.type (Format.java:formatFolder) - Formatting JOURNAL_FOLDER:/usr/local/alluxio-1.3.0/journal
+2016-10-22 15:09:29,828 INFO  logger.type (Format.java:formatFolder) - Formatting BlockMaster_JOURNAL_FOLDER:/usr/local/alluxio-1.3.0/journal/BlockMaster
+2016-10-22 15:09:29,829 INFO  logger.type (Format.java:formatFolder) - Formatting FileSystemMaster_JOURNAL_FOLDER:/usr/local/alluxio-1.3.0/journal/FileSystemMaster
+2016-10-22 15:09:29,830 INFO  logger.type (Format.java:formatFolder) - Formatting LineageMaster_JOURNAL_FOLDER:/usr/local/alluxio-1.3.0/journal/LineageMaster
+2016-11-02 21:07:13,120 INFO  logger.type (MetricsSystem.java:startSinksFromConfig) - Starting sinks with config: {}.
+2016-11-02 21:07:13,267 INFO  reflections.Reflections (Reflections.java:scan) - Reflections took 104 ms to scan 1 urls, producing 5 keys and 77 values 
+2016-11-02 21:07:18,040 INFO  logger.type (MetricsSystem.java:startSinksFromConfig) - Starting sinks with config: {}.
+2016-11-02 21:07:18,173 INFO  reflections.Reflections (Reflections.java:scan) - Reflections took 107 ms to scan 1 urls, producing 5 keys and 77 values 
+2016-11-02 21:07:23,732 INFO  logger.type (MetricsSystem.java:startSinksFromConfig) - Starting sinks with config: {}.
+2016-11-02 21:07:23,865 INFO  reflections.Reflections (Reflections.java:scan) - Reflections took 106 ms to scan 1 urls, producing 5 keys and 77 values 
+2016-11-02 21:07:26,432 INFO  logger.type (MetricsSystem.java:startSinksFromConfig) - Starting sinks with config: {}.
+2016-11-02 21:07:26,563 INFO  reflections.Reflections (Reflections.java:scan) - Reflections took 107 ms to scan 1 urls, producing 5 keys and 77 values 
+2016-11-02 21:07:29,773 INFO  logger.type (MetricsSystem.java:startSinksFromConfig) - Starting sinks with config: {}.
+2016-11-02 21:07:29,905 INFO  reflections.Reflections (Reflections.java:scan) - Reflections took 106 ms to scan 1 urls, producing 5 keys and 77 values 
+2016-11-02 21:07:30,000 INFO  logger.type (AbstractClient.java:connect) - Alluxio client (version 1.3.0) is trying to connect with FileSystemMasterClient master @ localhost/127.0.0.1:19998
+2016-11-02 21:07:30,013 INFO  logger.type (AbstractClient.java:connect) - Client registered with FileSystemMasterClient master @ localhost/127.0.0.1:19998
+2016-11-08 11:24:53,363 INFO  logger.type (MetricsSystem.java:startSinksFromConfig) - Starting sinks with config: {}.
+2016-11-08 11:24:53,503 INFO  reflections.Reflections (Reflections.java:scan) - Reflections took 105 ms to scan 1 urls, producing 5 keys and 77 values 
+2016-11-08 11:24:53,598 INFO  logger.type (AbstractClient.java:connect) - Alluxio client (version 1.3.0) is trying to connect with FileSystemMasterClient master @ localhost/127.0.0.1:19998
+2016-11-08 11:24:53,612 INFO  logger.type (AbstractClient.java:connect) - Client registered with FileSystemMasterClient master @ localhost/127.0.0.1:19998
+2016-11-08 11:26:07,496 INFO  logger.type (MetricsSystem.java:startSinksFromConfig) - Starting sinks with config: {}.
+2016-11-08 11:26:07,630 INFO  reflections.Reflections (Reflections.java:scan) - Reflections took 109 ms to scan 1 urls, producing 5 keys and 77 values 
+2016-11-08 11:26:07,726 INFO  logger.type (AbstractClient.java:connect) - Alluxio client (version 1.3.0) is trying to connect with FileSystemMasterClient master @ localhost/127.0.0.1:19998
+2016-11-08 11:26:07,740 INFO  logger.type (AbstractClient.java:connect) - Client registered with FileSystemMasterClient master @ localhost/127.0.0.1:19998
+2016-11-08 11:47:12,345 INFO  logger.type (MetricsSystem.java:startSinksFromConfig) - Starting sinks with config: {}.
+2016-11-08 11:47:12,479 INFO  reflections.Reflections (Reflections.java:scan) - Reflections took 107 ms to scan 1 urls, producing 5 keys and 77 values 
+2016-11-08 11:47:12,575 INFO  logger.type (AbstractClient.java:connect) - Alluxio client (version 1.3.0) is trying to connect with FileSystemMasterClient master @ localhost/127.0.0.1:19998
+2016-11-08 11:47:12,589 INFO  logger.type (AbstractClient.java:connect) - Client registered with FileSystemMasterClient master @ localhost/127.0.0.1:19998
+2016-11-12 09:34:39,551 INFO  logger.type (Format.java:formatFolder) - Formatting JOURNAL_FOLDER:/usr/local/alluxio-1.3.0/journal
+2016-11-12 09:34:39,635 INFO  logger.type (Format.java:formatFolder) - Formatting BlockMaster_JOURNAL_FOLDER:/usr/local/alluxio-1.3.0/journal/BlockMaster
+2016-11-12 09:34:39,726 INFO  logger.type (Format.java:formatFolder) - Formatting FileSystemMaster_JOURNAL_FOLDER:/usr/local/alluxio-1.3.0/journal/FileSystemMaster
+2016-11-12 09:34:39,727 INFO  logger.type (Format.java:formatFolder) - Formatting LineageMaster_JOURNAL_FOLDER:/usr/local/alluxio-1.3.0/journal/LineageMaster

@@ -1,0 +1,956 @@
+2016-10-22 15:09:39,934
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-02 20:18:31,708
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-02 20:19:56,765
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-02 20:24:22,341
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-02 20:26:36,124
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-02 20:28:13,598
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-02 20:34:46,327
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-02 20:40:35,181
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-02 20:57:42,491
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 1 processes on Beyond
+Connection to localhost closed.
+2016-11-02 20:59:30,816
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 1 processes on Beyond
+Connection to localhost closed.
+2016-11-07 11:04:51,688
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 11:06:31,031
+   INFO WORKERS  Connecting to localhost as Beyond...
+Permission denied, please try again.
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 11:13:13,933
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 1 processes on Beyond
+Connection to localhost closed.
+2016-11-07 11:13:55,192
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 1 processes on Beyond
+Connection to localhost closed.
+2016-11-07 11:15:21,279
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 11:15:49,910
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 11:16:13,046
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 10:11:01,388
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 10:11:35,551
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 10:22:20,341
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 10:23:04,393
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 10:39:06,787
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 1 processes on Beyond
+Connection to localhost closed.
+2016-11-07 10:39:30,941
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 10:39:54,651
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 10:58:09,795
+   INFO WORKERS  Connecting to localhost as Beyond...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 11:39:28,461
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-07 11:41:09,962
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 10:39:59,907
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 12:02:51,259
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 22: alluxio.worker.tieredstore.levels=2: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 23: alluxio.worker.tieredstore.level0.alias=MEM: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 24: alluxio.worker.tieredstore.level0.dirs.path=/mnt/ramdisk: No such file or directory
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 25: alluxio.worker.tieredstore.level0.dirs.quota=2048MB: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 26: alluxio.worker.tieredstore.level0.reserved.ratio=0.2: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 27: alluxio.worker.tieredstore.level1.alias=HDD: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 28: alluxio.worker.tieredstore.level1.dirs.path=/mnt/hdd1,/mnt/hdd2,/mnt/hdd3: No such file or directory
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 29: alluxio.worker.tieredstore.level1.dirs.quota=5GB,5GB,5GB: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 30: alluxio.worker.tieredstore.level1.reserved.ratio=0.1: command not found
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 12:03:09,798
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 22: alluxio.worker.tieredstore.levels=2: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 23: alluxio.worker.tieredstore.level0.alias=MEM: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 24: alluxio.worker.tieredstore.level0.dirs.path=/mnt/ramdisk: No such file or directory
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 25: alluxio.worker.tieredstore.level0.dirs.quota=2048MB: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 26: alluxio.worker.tieredstore.level0.reserved.ratio=0.2: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 27: alluxio.worker.tieredstore.level1.alias=HDD: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 28: alluxio.worker.tieredstore.level1.dirs.path=/mnt/hdd1,/mnt/hdd2,/mnt/hdd3: No such file or directory
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 29: alluxio.worker.tieredstore.level1.dirs.quota=5GB,5GB,5GB: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 30: alluxio.worker.tieredstore.level1.reserved.ratio=0.1: command not found
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 12:12:30,376
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 22: alluxio.worker.tieredstore.levels=2: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 23: alluxio.worker.tieredstore.level0.alias=MEM: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 24: alluxio.worker.tieredstore.level0.dirs.path=/mnt/ramdisk: No such file or directory
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 25: alluxio.worker.tieredstore.level0.dirs.quota=1024MB: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 26: alluxio.worker.tieredstore.level0.reserved.ratio=0.2: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 27: alluxio.worker.tieredstore.level1.alias=HDD: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 28: alluxio.worker.tieredstore.level1.dirs.path=/mnt/hdd1,/mnt/hdd2,/mnt/hdd3: No such file or directory
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 29: alluxio.worker.tieredstore.level1.dirs.quota=5GB,5GB,5GB: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 30: alluxio.worker.tieredstore.level1.reserved.ratio=0.1: command not found
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 12:12:48,656
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 22: alluxio.worker.tieredstore.levels=2: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 23: alluxio.worker.tieredstore.level0.alias=MEM: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 24: alluxio.worker.tieredstore.level0.dirs.path=/mnt/ramdisk: No such file or directory
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 25: alluxio.worker.tieredstore.level0.dirs.quota=1024MB: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 26: alluxio.worker.tieredstore.level0.reserved.ratio=0.2: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 27: alluxio.worker.tieredstore.level1.alias=HDD: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 28: alluxio.worker.tieredstore.level1.dirs.path=/mnt/hdd1,/mnt/hdd2,/mnt/hdd3: No such file or directory
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 29: alluxio.worker.tieredstore.level1.dirs.quota=5GB,5GB,5GB: command not found
+/usr/local/alluxio-1.3.0/conf/alluxio-env.sh: line 30: alluxio.worker.tieredstore.level1.reserved.ratio=0.1: command not found
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 13:44:53,732
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 13:45:10,225
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 13:47:50,047
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 13:48:22,938
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 13:50:22,642
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 13:50:30,126
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 14:52:50,841
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 14:59:02,349
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 15:01:37,043
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 15:12:41,167
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-08 15:13:05,394
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-12 09:33:46,434
+   INFO MASTER  Connecting to 10.108.20.64 as root...
+Warning: Permanently added '10.108.20.64' (RSA) to the list of known hosts.
+Permission denied, please try again.
+Permission denied, please try again.
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 09:35:45,979
+   INFO WORKERS  Connecting to 10.108.20.64 as root...
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 09:35:58,844
+   INFO MASTER  Connecting to 10.108.20.64 as root...
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio-start.sh: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 09:41:15,543
+   INFO WORKERS  Connecting to 10.108.20.64 as root...
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 09:41:24,882
+   INFO MASTER  Connecting to 10.108.20.64 as root...
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio-start.sh: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 09:45:55,613
+   INFO WORKERS  Connecting to 10.108.20.64 as root...
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 09:46:03,390
+   INFO MASTER  Connecting to 10.108.20.64 as root...
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio-start.sh: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 09:55:22,628
+   INFO MASTER  Connecting to 10.108.20.64 as root...
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio-start.sh: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 10:01:54,383
+   INFO WORKERS  Connecting to 10.108.20.64 as root...
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 10:02:28,483
+   INFO WORKERS  Connecting to 10.108.20.64 as root...
+Permission denied, please try again.
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-12 10:02:46,219
+   INFO MASTER  Connecting to 10.108.20.64 as root...
+tcgetattr: Inappropriate ioctl for device
+bash: /usr/local/alluxio-1.3.0/bin/alluxio-start.sh: No such file or directory
+Connection to 10.108.20.64 closed.
+2016-11-15 05:29:09,342
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied (publickey,gssapi-with-mic,password).
+2016-11-15 05:29:31,603
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+Permission denied, please try again.
+Permission denied, please try again.
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+2016-11-15 05:33:02,912
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+2016-11-15 05:33:02,915
+   INFO WORKERS  Connecting to 10.108.20.161 as root...
+Warning: Permanently added '10.108.20.161' (RSA) to the list of known hosts.
+tcgetattr: Inappropriate ioctl for device
+Killed 1 processes on node1731
+Connection to 10.108.21.89 closed.
+Permission denied, please try again.
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.20.161 closed.
+2016-11-15 05:33:46,911
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+2016-11-15 05:33:46,914
+   INFO WORKERS  Connecting to 10.108.20.161 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on node1731
+Connection to 10.108.21.89 closed.
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.20.161 closed.
+2016-11-15 05:34:20,204
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+2016-11-15 05:34:20,206
+   INFO MASTER  Connecting to 10.108.20.161 as root...
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+Permission denied (publickey,gssapi-with-mic,password).
+2016-11-15 05:36:07,480
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+2016-11-15 05:36:07,483
+   INFO WORKERS  Connecting to 10.108.20.161 as root...
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied (publickey,gssapi-with-mic,password).
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+2016-11-15 05:38:37,190
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+2016-11-15 05:38:37,194
+   INFO WORKERS  Connecting to 10.108.20.161 as root...
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+Connection closed by 10.108.21.89
+2016-11-15 05:41:11,558
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+2016-11-15 05:41:11,559
+   INFO MASTER  Connecting to 10.108.20.161 as root...
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+2016-11-15 05:46:24,511
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 05:46:53,091
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 05:46:59,829
+   INFO MASTER  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to localhost closed.
+2016-11-15 05:47:57,388
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 05:49:25,845
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 05:49:25,849
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied (publickey,gssapi-with-mic,password).
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+2016-11-15 05:51:08,290
+   INFO MASTER  Connecting to localhost as root...
+2016-11-15 05:51:08,292
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied (publickey,gssapi-with-mic,password).
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+2016-11-15 05:57:28,046
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 05:57:28,049
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 1 processes on node1731
+Connection to 10.108.21.89 closed.
+Permission denied, please try again.
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 05:57:56,189
+   INFO MASTER  Connecting to localhost as root...
+2016-11-15 05:57:56,191
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+Permission denied (publickey,gssapi-with-mic,password).
+2016-11-15 06:51:09,021
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 06:51:09,024
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on node1731
+Connection to 10.108.21.89 closed.
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 06:51:11,458
+   INFO MASTER  Connecting to localhost as root...
+2016-11-15 06:51:11,459
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+Connection to localhost closed.
+2016-11-15 08:52:00,825
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 08:52:00,829
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+Killed 1 processes on node1731
+Connection to 10.108.21.89 closed.
+2016-11-15 09:03:29,438
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 09:03:29,441
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on node1731
+Connection to 10.108.21.89 closed.
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 09:03:31,870
+   INFO MASTER  Connecting to localhost as root...
+2016-11-15 09:03:31,872
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+Connection to localhost closed.
+2016-11-15 09:09:44,132
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 09:09:44,136
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+Killed 1 processes on node1731
+Connection to 10.108.21.89 closed.
+2016-11-15 09:10:25,517
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 09:10:25,521
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on node1731
+Connection to 10.108.21.89 closed.
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 09:14:21,192
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 09:14:21,217
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+ssh: connect to host 10.108.21.89 port 22: Network is unreachable
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 09:14:23,773
+   INFO MASTER  Connecting to localhost as root...
+2016-11-15 09:14:23,776
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+ssh: connect to host 10.108.21.89 port 22: Network is unreachable
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to localhost closed.
+2016-11-15 09:16:27,216
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 09:16:27,219
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+ssh: connect to host 10.108.21.89 port 22: Network is unreachable
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 09:16:29,661
+   INFO MASTER  Connecting to localhost as root...
+2016-11-15 09:16:29,664
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+ssh: connect to host 10.108.21.89 port 22: Network is unreachable
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to localhost closed.
+2016-11-15 09:16:56,294
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 09:16:56,297
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+ssh: connect to host 10.108.21.89 port 22: Network is unreachable
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 09:16:58,738
+   INFO MASTER  Connecting to localhost as root...
+2016-11-15 09:16:58,742
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+ssh: connect to host 10.108.21.89 port 22: Network is unreachable
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to localhost closed.
+2016-11-15 09:18:07,791
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-15 09:18:07,794
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on node1731
+Connection to 10.108.21.89 closed.
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-15 09:18:10,254
+   INFO MASTER  Connecting to localhost as root...
+2016-11-15 09:18:10,280
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+/usr/local/alluxio-1.3.0/bin
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+Connection to localhost closed.
+2016-11-21 10:38:48,301
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-21 10:38:48,344
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+Killed 1 processes on node1731
+Connection to 10.108.21.89 closed.
+2016-11-21 10:38:51,714
+   INFO MASTER  Connecting to localhost as root...
+2016-11-21 10:38:51,716
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+/usr/local/alluxio-1.3.0/bin
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+Connection to localhost closed.
+2016-11-21 14:49:14,655
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-21 14:49:14,659
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+Killed 1 processes on node1731
+Connection to 10.108.21.89 closed.
+2016-11-21 15:37:33,766
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-21 15:37:33,770
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on node1731
+Connection to 10.108.21.89 closed.
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-21 15:37:36,223
+   INFO MASTER  Connecting to localhost as root...
+2016-11-21 15:37:36,224
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+Connection to localhost closed.
+2016-11-22 10:05:37,067
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-22 10:05:37,098
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+Killed 1 processes on node1731
+Connection to 10.108.21.89 closed.
+2016-11-22 10:05:40,473
+   INFO MASTER  Connecting to localhost as root...
+2016-11-22 10:05:40,476
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+Connection to localhost closed.
+2016-11-22 10:10:37,083
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-22 10:10:37,114
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+ssh: connect to host 10.108.21.89 port 22: Network is unreachable
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-22 10:10:39,691
+   INFO MASTER  Connecting to localhost as root...
+2016-11-22 10:10:39,694
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+ssh: connect to host 10.108.21.89 port 22: Network is unreachable
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to localhost closed.
+2016-11-22 10:11:37,728
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-22 10:11:37,731
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+Killed 1 processes on node1731
+Connection to 10.108.21.89 closed.
+2016-11-22 10:11:48,095
+   INFO WORKERS  Connecting to localhost as root...
+2016-11-22 10:11:48,098
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on node1731
+Connection to 10.108.21.89 closed.
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2016-11-22 10:11:50,544
+   INFO MASTER  Connecting to localhost as root...
+2016-11-22 10:11:50,546
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+Connection to localhost closed.
+2017-02-19 11:10:54,306
+   INFO WORKERS  Connecting to localhost as root...
+2017-02-19 11:10:54,330
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+ssh: connect to host 10.108.21.89 port 22: No route to host
+2017-02-19 11:13:05,408
+   INFO WORKERS  Connecting to localhost as root...
+2017-02-19 11:13:05,411
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+ssh: connect to host 10.108.21.89 port 22: No route to host
+2017-02-19 11:23:43,162
+   INFO WORKERS  Connecting to localhost as root...
+2017-02-19 11:23:43,165
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+ssh: connect to host 10.108.21.89 port 22: No route to host
+2017-02-19 11:23:48,229
+   INFO MASTER  Connecting to localhost as root...
+2017-02-19 11:23:48,230
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+ssh: connect to host 10.108.21.89 port 22: No route to host
+Connection to localhost closed.
+2017-03-22 16:06:13,664
+   INFO WORKERS  Connecting to localhost as root...
+2017-03-22 16:06:13,721
+   INFO WORKERS  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+Killed 0 processes on node1731
+Connection to 10.108.21.89 closed.
+2017-03-22 16:06:16,303
+   INFO MASTER  Connecting to localhost as root...
+2017-03-22 16:06:16,305
+   INFO MASTER  Connecting to 10.108.21.89 as root...
+tcgetattr: Inappropriate ioctl for device
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ node1731. Logging to /usr/local/alluxio-1.3.0/logs
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.89 closed.
+Connection to localhost closed.
+2017-03-22 16:09:34,585
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2017-03-22 16:09:52,861
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2017-03-22 16:09:55,326
+   INFO MASTER  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to localhost closed.
+2017-03-22 16:12:58,374
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2017-03-31 11:59:30,339
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2017-03-31 11:59:32,966
+   INFO MASTER  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to localhost closed.
+2017-03-31 12:13:06,655
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2017-03-31 12:13:09,124
+   INFO MASTER  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to localhost closed.
+2017-03-31 13:07:36,055
+   INFO WORKERS  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to localhost closed.
+2017-03-31 13:07:38,543
+   INFO MASTER  Connecting to localhost as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to localhost closed.
+2017-03-31 15:15:49,688
+   INFO WORKERS  Connecting to 10.108.21.153 as root...
+Warning: Permanently added '10.108.21.153' (RSA) to the list of known hosts.
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.21.153 closed.
+2017-03-31 15:15:52,128
+   INFO MASTER  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.153 closed.
+2017-03-31 15:20:34,465
+   INFO WORKERS  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.21.153 closed.
+2017-03-31 15:20:36,912
+   INFO MASTER  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.153 closed.
+2017-03-31 15:25:46,230
+   INFO WORKERS  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.21.153 closed.
+2017-05-03 06:14:26,129
+   INFO WORKERS  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.21.153 closed.
+2017-05-03 06:14:28,749
+   INFO MASTER  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.153 closed.
+2017-05-03 06:19:58,272
+   INFO WORKERS  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.21.153 closed.
+2017-05-03 06:20:00,718
+   INFO MASTER  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.153 closed.
+2017-05-03 06:20:46,280
+   INFO WORKERS  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.21.153 closed.
+2017-05-14 17:22:16,293
+   INFO WORKERS  Connecting to 10.108.21.153 as root...
+Agent admitted failure to sign using the key.
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.21.153 closed.
+2017-05-14 17:22:22,911
+   INFO MASTER  Connecting to 10.108.21.153 as root...
+Agent admitted failure to sign using the key.
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+hostname: Unknown host
+Starting worker @ . Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.153 closed.
+2017-05-24 05:02:32,743
+   INFO WORKERS  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.21.153 closed.
+2017-05-24 05:02:35,360
+   INFO MASTER  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.153 closed.
+2017-06-13 12:16:54,504
+   INFO WORKERS  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+Killed 0 processes on Beyond
+Connection to 10.108.21.153 closed.
+2017-06-13 12:16:57,085
+   INFO MASTER  Connecting to 10.108.21.153 as root...
+tcgetattr: Inappropriate ioctl for device
+/usr/local/alluxio-1.3.0/bin
+Formatting RamFS: /usr/local/alluxio-1.3.0/ramdisk (50mb)
+Starting worker @ Beyond. Logging to /usr/local/alluxio-1.3.0/logs
+Connection to 10.108.21.153 closed.
