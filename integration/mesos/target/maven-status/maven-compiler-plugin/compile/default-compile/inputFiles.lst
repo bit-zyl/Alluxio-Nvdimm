@@ -1,0 +1,5 @@
+/home/ec2-user/1.3/alluxio-1.3.0/integration/mesos/src/main/java/alluxio/mesos/AlluxioMasterExecutor.java
+/home/ec2-user/1.3/alluxio-1.3.0/integration/mesos/src/main/java/alluxio/mesos/OfferUtils.java
+/home/ec2-user/1.3/alluxio-1.3.0/integration/mesos/src/main/java/alluxio/mesos/AlluxioFramework.java
+/home/ec2-user/1.3/alluxio-1.3.0/integration/mesos/src/main/java/alluxio/mesos/AlluxioScheduler.java
+/home/ec2-user/1.3/alluxio-1.3.0/integration/mesos/src/main/java/alluxio/mesos/AlluxioWorkerExecutor.java

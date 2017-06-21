@@ -1,0 +1,9 @@
+alluxio/mesos/OfferUtils.class
+alluxio/mesos/AlluxioScheduler$1.class
+alluxio/mesos/AlluxioWorkerExecutor$1.class
+alluxio/mesos/AlluxioFramework.class
+alluxio/mesos/AlluxioWorkerExecutor.class
+alluxio/mesos/AlluxioMasterExecutor$1.class
+alluxio/mesos/AlluxioMasterExecutor.class
+alluxio/mesos/AlluxioScheduler.class
+alluxio/mesos/AlluxioScheduler$2.class
